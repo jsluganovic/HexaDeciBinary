@@ -19,7 +19,7 @@ HexaDeciBinary is a user-friendly Python tool for converting numbers between hex
    - Navigate to the repository's directory.
    - Run the following command:
      ```
-     python3 HexaDeciBinary.py
+     python3 hdb.py
      ```
 
 3. **Follow the Instructions**
@@ -29,4 +29,4 @@ HexaDeciBinary is a user-friendly Python tool for converting numbers between hex
 I created this tool to assist with Computer Science homework and make number conversions easier. I hope you find it helpful too!
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/jsluganovic/HexaDeciBinary/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/jsluganovic/HexaDeciBinary/blob/master/LICENSE) file for details.
