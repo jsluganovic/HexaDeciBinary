@@ -1,6 +1,6 @@
 # HexaDeciBinary
 
-![HexaDeciBinary Logo](https://github.com/jsluganovic/HexaDeciBinary/logo.png)
+![HexaDeciBinary Logo](https://github.com/jsluganovic/HexaDeciBinary/blob/master/logo.png)
 
 ## Description
 HexaDeciBinary is a user-friendly Python tool for converting numbers between hexadecimal, decimal, and binary formats.
